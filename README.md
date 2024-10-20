@@ -30,3 +30,8 @@ The application addresses the need for students to practice and improve their sp
 - **Word Input Screen:** Form to add and edit words.
 - **Quiz Screen:** Text-to-speech and input fields for spelling answers.
 - **Results Screen:** Displays quiz scores and feedback.
+
+Version	Date	Changes
+v1.0	Week 2	Initial submission: Project outline including Project Description, Problem Addressing, Platform, Front-End/Back-End support, and basic functionality ideas.
+v1.1	Week 5 (now)	Added functionality section to include custom word lists, quiz mode, and results. Integrated TextToSpeech (TTS) engine for pronouncing words during the quiz. Added wireframes for key screens including Home, Word Input, Quiz, and Results screens.
+v2.0	Week 6 (future)	Planned updates: Refine settings for customizing quiz preferences, improve UI for ease of navigation. Finalize GitHub Wiki and README documentation.
